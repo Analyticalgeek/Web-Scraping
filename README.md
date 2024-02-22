@@ -8,7 +8,8 @@ This script utilizes Requests and Beautiful Soup to extract quotes from a [webpa
 **Dependencies 📦**: Ensure you have the following dependencies installed -
 - Python (3.x recommended)
 - Jupyter Notebook
--libraries:
+- libraries
+
 
          import requests
          import pandas as pd
