@@ -80,11 +80,14 @@ Harnessing the power of Requests, Beautiful Soup our Dynamic Wikipedia Scraper f
 🔍 Looking for images to train an algorithm? How about using a stock image scraper? 🖼️ It's like a treasure hunt for data! 🕵️‍♂️ With this Scraping Script, you can scrape and download a vast array of images to fuel your algorithm's learning journey. 🚀 Time to dive into the sea of pixels and unlock the power of visual recognition! 🌟
 
 **Steps Included**:
-**1.** [Stock_Images_Scrape_notebook](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/1.%20Stock%20Images%20Website%20Scrape%20-%20Infinite%20scroll.ipynb) - The Script starts with scraping this [website](https://stockmages.netlify.app) for information like image link, tags, likes and comments of the Images.
 
-- The Scraped Information is saved in the [Stock_Images](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/images.csv) csv file
-- From the each Image link in the Stock_Images file, the script dwonloads the Images to the system.
+**1.** [Stock_Images_Scrape_notebook](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/1.%20Stock%20Images%20Website%20Scrape%20-%20Infinite%20scroll.ipynb) - The Script starts with scraping this [website](https://stockmages.netlify.app) for information like image link, tags, likes and comments of the Images and is saved as [Stock_Images](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/images.csv) csv file.
 
+**2.** [Bulk_download of Images](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/2.%20Stock_Images_Scrape_Bulk_download_of_Images.ipynb) - This Script is for bulk download of Images from the Image links in [Stock_Images](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/images.csv) csv file.
+
+**3.** [stock_Images_with_tags](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/3.%20Stock_Images_dataset_with_tags.ipynb) - This Script creates the folders for each tag in tag's column of [Stock_Images](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/images.csv) csv file and copy the respective Images to the respective tag folders.
+
+         Futher this data can be used to train the ML algorithm for visual recognition of Images, Image Classification and Image Captioning.
 
 
 
