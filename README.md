@@ -5,13 +5,15 @@ Welcome to the Web Scraping Toolbox! Here, you'll find a collection of handy scr
 ## 1. Quotes Scraper 📚
 This script utilizes Requests and Beautiful Soup to extract quotes from a [webpage](https://quotes.toscrape.com). 
 
-**Dependencies 📦**: Ensure you have the following dependencies installed:
+**Dependencies 📦**: Ensure you have the following dependencies installed -
 - Python (3.x recommended)
-- Requests library
-- Beautiful Soup library
-- Pandas library
-- numpy library
-- tqdm library (optional for progress tracking)
+- Jupyter Notebook
+-libraries:
+
+         import requests
+         import pandas as pd
+         from bs4 import BeautifulSoup
+         from tqdm import tqdm
 
 **Files**
 - [quotes_scrape.ipynb](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Quotes%20Scrape.ipynb): Jupyter Notebook version of the Quotes Scraper script for interactive usage and demonstration.
@@ -20,13 +22,15 @@ This script utilizes Requests and Beautiful Soup to extract quotes from a [webpa
 ## 2. Book Scraper 📖
 This script utilizes Requests and Beautiful Soup to extract Books Information from a [webpage](https://books.toscrape.com).
 
-**Dependencies 📦**: Ensure you have the following dependencies installed:
+**Dependencies 📦**: Ensure you have the following dependencies installed - 
 - Python (3.x recommended)
-- Requests library
-- Beautiful Soup library
-- Pandas library
-- numpy library
-- tqdm library (optional for progress tracking)
+- Jupyter Notebook
+-libraries:
+
+         import requests
+         import pandas as pd
+         from bs4 import BeautifulSoup
+         from tqdm import tqdm
 
 **File**
 - [book_scrape.ipynb](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Books%20Scrape.ipynb): Jupyter Notebook version of the Books Scraper script for interactive usage and demonstration.
