@@ -87,7 +87,9 @@ Harnessing the power of Requests, Beautiful Soup our Dynamic Wikipedia Scraper f
 
 **3.** [stock_Images_with_tags](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/3.%20Stock_Images_dataset_with_tags.ipynb) - This Script creates the folders for each tag in tag's column of [Stock_Images](https://github.com/Analyticalgeek/Web-Scraping/blob/main/Stock%20Image%20Scrapper/images.csv) csv file and copy the respective Images to the respective tag folders.
 
-         Futher this data can be used to train the ML algorithm for visual recognition of Images, Image Classification and Image Captioning.
+Futher this data can be used to train the ML algorithm for visual recognition of Images, Image Classification and Image Captioning.
+
+---
 
 
 
