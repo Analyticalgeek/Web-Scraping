@@ -5,8 +5,7 @@ Welcome to the Web Scraping Toolbox! Here, you'll find a collection of handy scr
 ## 1. Quotes Scraper 📚
 This script utilizes Requests and Beautiful Soup to extract quotes from a [webpage](https://quotes.toscrape.com). 
 
-**Dependencies 📦**:
-- Ensure you have the following dependencies installed:
+**Dependencies 📦**: Ensure you have the following dependencies installed:
 - Python (3.x recommended)
 - Requests library
 - Beautiful Soup library
@@ -21,8 +20,7 @@ This script utilizes Requests and Beautiful Soup to extract quotes from a [webpa
 ## 2. Book Scraper 📖
 This script utilizes Requests and Beautiful Soup to extract Books Information from a [webpage](https://books.toscrape.com).
 
-**Dependencies 📦**:
-- Ensure you have the following dependencies installed:
+**Dependencies 📦**: Ensure you have the following dependencies installed:
 - Python (3.x recommended)
 - Requests library
 - Beautiful Soup library
@@ -37,8 +35,7 @@ This script utilizes Requests and Beautiful Soup to extract Books Information fr
 ## 3. Dynamic Wikipedia Scraper by Title 🌐
 Harnessing the power of Requests, Beautiful Soup our Dynamic Wikipedia Scraper fetches information dynamically from Wikipedia articles based on your provided titles. Expand your knowledge with ease!
 
-**Dependencies 📦**:
-- Ensure you have the following dependencies installed:
+**Dependencies 📦**: Ensure you have the following dependencies installed:
 - Python (3.x recommended)
 - Requests library
 - Beautiful Soup library
@@ -50,16 +47,15 @@ Harnessing the power of Requests, Beautiful Soup our Dynamic Wikipedia Scraper f
 ## 4. Youtube Channel GeekForGeeks Scrape 📹
 **Why ?🤔** Scraping a YouTube channel allows for in-depth analysis of video content, engagement metrics, and audience demographics. This data can be valuable for content creators, marketers, and researchers to understand trends and preferences. By scraping data from competitor channels, businesses can gain insights into their strategies, content performance, and audience engagement, enabling them to refine their own approach and stay competitive and By automating the scraping process, users can generate regular reports on channel performance, trends, and metrics, saving time and effort compared to manual data collection and analysis.
 
-**Dependencies 📦**:
-- Ensure you have the following dependencies installed:
-!pip install selenium
+**Dependencies 📦**: Ensure you have the following dependencies installed:
+         !pip install selenium
 
-from selenium import webdriver
-from bs4 import BeautifulSoup
-import pandas as pd
-import numpy as np
-import time
-from tqdm import tqdm
+         from selenium import webdriver
+         from bs4 import BeautifulSoup
+         import pandas as pd
+         import numpy as np
+         import time
+         from tqdm import tqdm
 
 - Python (3.x recommended)
 - Requests library
