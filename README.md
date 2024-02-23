@@ -93,7 +93,9 @@ Futher this data can be used to train the ML algorithm for visual recognition of
 Please scrape responsibly and adhere to the terms of service of the websites you're scraping. Let's maintain a positive web scraping ecosystem for everyone!
 
 ## License 📜
-This toolbox is licensed under the [MIT License](https://opensource.org/licenses/MIT). Refer to the [LICENSE](LICENSE) file for more details.
+This Repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+Happy Scraping!🔍
 
 ---
 
